@@ -1,56 +1,38 @@
-\# Task 3: Decision Tree Classifier
+# Task 3: Decision Tree Classifier
 
-
-
-\## Objective
+## Objective
 
 To build a decision tree model to predict customer behavior.
 
+## Tools Used
 
+- Python
+- Pandas
+- Scikit-learn
 
-\## Tools Used
-
-\- Python
-
-\- Pandas
-
-\- Scikit-learn
-
-
-
-\## Dataset
+## Dataset
 
 Sample dataset used for classification.
 
+## Process
 
+- Loaded dataset
+- Converted categorical data
+- Split into training and testing
+- Trained decision tree model
+- Evaluated performance
 
-\## Process
+## Results
 
-\- Loaded dataset
+- Model achieved good accuracy
+- Successfully classified target variable
 
-\- Converted categorical data
+## Visual Output
 
-\- Split into training and testing
+![Decision Tree](decision_tree_visualization.png)
 
-\- Trained decision tree model
+## Files Included
 
-\- Evaluated performance
-
-
-
-\## Results
-
-\- Achieved good accuracy
-
-\- Model predicts target variable effectively
-
-
-
-\## Files Included
-
-\- task3\_decision\_tree.ipynb
-
-\- screenshots
-
-\- recording.mp4
-
+- task3_decision_tree.ipynb
+- decision_tree_visualization.png
+- task3_execution.mp4
